@@ -1,4 +1,4 @@
-# Philips Tasy EMR ZPL Pulseira de Identificao do Paciente
+# Philips Tasy EMR ZPL Pulseira de Identifição do Paciente
 Código ZPL para emissão da pulseira de identificação do paciente.
 
 # Sistemas Utilizados
