@@ -30,3 +30,6 @@ Site: https://lnkd.in/dEYUx7-C
 
 # Visualização Virtualizada da Pulseira de Identificação Geral
 https://github.com/webertmartinsfreitas/Philips-Tasy-EMR-ZPL-Pulseira-de-Identificacao-Paciente/blob/main/Paciente-Geral/Pulseira-de-Identifica%C3%A7%C3%A3o-do-Paciente-Geral.png?raw=true
+
+
+# Visualização Virtualizada da Pulseira de Identificação Recém Nascido
