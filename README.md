@@ -32,9 +32,11 @@ Site: https://lnkd.in/dEYUx7-C
 # Modelo da Pulseira de Identificação do Paciente Geral
 <img src="https://github.com/webertmartinsfreitas/Philips-Tasy-EMR-ZPL-Pulseira-de-Identificacao-do-Paciente/blob/main/Pulseiras-ZPL/Pulseira-de-Identificacao-do-Paciente-Geral.png?raw=true">
 
+# Código ZPL da Pulseira de Identificação do Paciente Geral
+https://colab.research.google.com/drive/1KsoX-lHIzm_ixXItmJOs2ufPsrYBfCet?usp=drive_link
+
 # Modelo da Pulseira de Identificação do Paciente Recém Nascido
 <img src="https://github.com/webertmartinsfreitas/Philips-Tasy-EMR-ZPL-Pulseira-de-Identificacao-do-Paciente/blob/main/Pulseiras-ZPL/Pulseira-de-Identificacao-do-Paciente-Recem-Nascido.png?raw=true">
 
-
-
-
+# Código ZPL da Pulseira de Identificação do Paciente Geral
+https://colab.research.google.com/drive/1RBPI9B5zRxSZTZsVqqFrPLYpY0L_t2rK?usp=drive_link
